@@ -38,10 +38,10 @@ body * {
 }
 
 #container {
-  display: flex;
-  padding: 56px 50rem;
-  justify-content: center;
-  flex-direction: column;
+  width: 100%;
+  max-width: 588px;
+  padding: 56px auto 0px;
+  padding: 0 24px;
 }
 
 /* profile */
