@@ -42,7 +42,9 @@ body * {
   width: 100%;
   max-width: 588px;
   border: 1px;
-  margin: auto;
+   
+  margin: 5% auto ;
+  
 }
 
 /* profile */
